@@ -13,7 +13,7 @@
     --font-light: #202020;
 }
 .nav-links #toggle{
-    pointer: cursor !important;
+    content: cursor !important;
 }
 * {
     box-sizing: border-box;
